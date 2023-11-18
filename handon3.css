@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+
+}
+.hi{
+    text-align: center;
+    background-color: brown;
+}
+#hh{
+    color: rgb(16, 28, 196);
+}
+#img{
+    width: 500px;
+    height: auto;
+    cursor:progress;
+    position: absolute;
+    border-radius: 50%;
+    
+
+    
+}

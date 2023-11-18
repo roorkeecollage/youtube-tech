@@ -1,0 +1,80 @@
+.header{
+    display:flex;
+    height: 55px;
+    justify-content:space-between;
+    border-bottom: 2px solid black;
+    
+  
+    
+}
+.header-iteam{
+    display: flex;
+   
+}
+.header-first{
+
+    width: 50px;
+    height: 50px;
+    background-color:lightgray;
+    margin-right: 5px; ;
+}
+    
+.header-second{
+    width: 100px;
+    height: 50px;
+    background-color: lightgray;
+    
+   
+}
+.header-search{
+
+    width: 40vw;
+    height: 50px;
+    background-color: lightgray;
+    border-radius: 25px;
+    
+}
+.header-mic{
+    width: 50px;
+    height: 50px;
+    background-color: lightgray;
+    border-radius: 50%;
+    margin-left: 5px;
+}  
+.header-tools{
+    width: 100px;
+    height: 50px;
+    background-color: lightgray;
+    border-radius: 25px;
+ 
+}
+.main-section{
+    display:flex;
+    width: 100%;
+    height: 100vh;
+    justify-content:space-between;
+    
+}   
+.main-left{
+    width:410px;
+    height: 410px;
+    border-left: 2px solid black;
+    background-color: lightgray;
+    margin-left: 70px;
+
+
+    }
+.main-middle{
+    width: 410px;
+    height: 410px;
+    background-color: lightgrey; 
+    
+}
+
+.main-right{
+    width: 410px;
+    height: 410px;
+    background-color: lightgrey; 
+    margin-right: 7px;
+   
+}
